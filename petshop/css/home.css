@@ -1,7 +1,0 @@
-section p:first-child {
-    margin-top: 0;
-}
-
-section p:last-child {
-    margin-bottom: 0;
-}
